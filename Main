@@ -1,0 +1,6 @@
+-- Only copy the loadstring, no point in checking further as everything is obfuscated.
+
+-- There may be bugs depending on your executor. Use Synapse X for the best experience.
+
+--// v1
+loadstring(game:HttpGet("https://raw.githubusercontent.com/77p-script/7pp-script-main/main/discord"))()
